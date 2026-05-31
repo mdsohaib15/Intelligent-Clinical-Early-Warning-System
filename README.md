@@ -2,7 +2,6 @@
 
 ### *Can AI Save Lives? Building a Deep Learning Pipeline for Sepsis Detection*
 
-
 > **Author:** Muhammad Sohaib · Roll No: 22F-BSAI-40
 >
 > **Course:** Deep Learning — Assignment 01
@@ -11,6 +10,7 @@
 >
 > **Platform:** Google Colab (GPU)
 
+## **Colab Link: [Open in Colab](#### **Colab Link: https://drive.google.com/file/d/11_htK0Ix9DZjrxZTxlSQ0EeXd7oyXBIL/view?usp=sharing**)**
 
 ## Overview
 
