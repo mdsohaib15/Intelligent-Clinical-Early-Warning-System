@@ -2,18 +2,14 @@
 
 ### *Can AI Save Lives? Building a Deep Learning Pipeline for Sepsis Detection*
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?logo=huggingface&logoColor=black)
-![License](https://img.shields.io/badge/License-Academic-green)
 
 > **Author:** Muhammad Sohaib · Roll No: 22F-BSAI-40
+>
 > **Course:** Deep Learning — Assignment 01
+>
 > **Submitted to:** Engr. Hamza Farooqui
+>
 > **Platform:** Google Colab (GPU)
-
----
 
 ## Overview
 
@@ -24,7 +20,7 @@ This project builds a **multi-generation deep learning pipeline** to predict pat
 
 The pipeline is structured across three progressively advanced generations, each building on the last, and culminates in a full NLP-based clinical note classifier using **ClinicalBERT**.
 
->  In healthcare AI, **Recall (Sensitivity) is the primary metric**. A missed sepsis case (False Negative) can cost a patient's life. A false alarm (False Positive) causes unnecessary but clinically safe review.
+> In healthcare AI, **Recall (Sensitivity) is the primary metric**. A missed sepsis case (False Negative) can cost a patient's life. A false alarm (False Positive) causes unnecessary but clinically safe review.
 
 ---
 
