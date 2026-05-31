@@ -10,7 +10,7 @@
 >
 > **Platform:** Google Colab (GPU)
 
-## **Colab Link: [Open in Colab](#### **Colab Link: https://drive.google.com/file/d/11_htK0Ix9DZjrxZTxlSQ0EeXd7oyXBIL/view?usp=sharing**)**
+## **Colab Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/11_htK0Ix9DZjrxZTxlSQ0EeXd7oyXBIL/view?usp=sharing)**
 
 ## Overview
 
